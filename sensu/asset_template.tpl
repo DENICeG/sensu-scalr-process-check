@@ -4,4 +4,4 @@ metadata:
   name: sensu-scalr-process-check
 spec:
   sha512: __SHA__
-  url: https://github.com/DENICeG/sensu-scalr-process-check/archive/__TAG__.tar.gz
+  url: https://github.com/DENICeG/sensu-scalr-process-check/releases/download/__TAG__/sensu-scalr-process-check___TAG___linux_amd64.tar.gz
