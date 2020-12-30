@@ -4,4 +4,4 @@ metadata:
   name: sensu-scalr-process-check
 spec:
   sha512: e170bcc54c06175c3353b3cee455d5ed63bca069ff76ed54b4937f4a4c26598d0ebb8198f899c460171c7342adcf9c11de4386f3b92ceb8ee19337ea6935201d
-  url: https://github.com/DENICeG/sensu-scalr-process-check/releases/download/v1.0.0/sensu-scalr-process-check_v1.0.0_linux_amd64.tar.gz
+  url: https://github.com/DENICeG/sensu-scalr-process-check/archive/v1.0.1.tar.gz
