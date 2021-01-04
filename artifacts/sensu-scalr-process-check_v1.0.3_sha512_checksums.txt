@@ -1,0 +1,1 @@
+cb64f8a7b0aeb83fdbbe952c00fba2db41c4c5457e862d63a5cb12ca972576906b9ed16884bc5064219b1c302742f7213a594fe588099a8a42e9e8ec68c9c823  sensu-scalr-process-check_v1.0.3_linux_amd64.tar.gz

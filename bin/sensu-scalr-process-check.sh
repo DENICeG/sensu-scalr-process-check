@@ -4,7 +4,7 @@ STATUS=$(/opt/scalr-server/bin/scalr-server-manage status)
 
 if [ $? -ne 0 ]; then
   echo "$STATUS"
-  exit 1
+  exit 2
 fi
 
 echo "$STATUS"
